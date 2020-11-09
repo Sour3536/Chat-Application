@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Login</title>
+</head>
+<body>
+	{{currentUsers}}
+	<form action="{{url_for('logging')}}" method="post">
+		<input type="text" name="username" placeholder="Enter Display Name">
+		<button type="submit">Login</button>
+	</form>
+</body>
+</html>
