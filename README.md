@@ -1,3 +1,1 @@
-# Project 2
-
-Web Programming with Python and JavaScript
+A Chat-Application made using Flask(A Python Web Micro-Framework) sockets.Sockets allow real tim chatting between different people and use of rooms helps us create various groups.The interface management is still on the way.
